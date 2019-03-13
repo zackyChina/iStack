@@ -1,6 +1,6 @@
 # iStack
 it implements a simple double stack in one array.  
-The array with two dimension which restrict only integer value accepted.  
+It's an array with two dimension which restrict only integer value accepted.  
 
 ####
 
