@@ -1,5 +1,5 @@
 # coding=UTF-8
-#!/usr/bin/python2
+#!/usr/bin/python3
 
 import unittest
 from utils.i_stack import IStack

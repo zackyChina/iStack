@@ -1,16 +1,9 @@
 # coding=UTF-8
-#!/usr/bin/python2
+#!/usr/bin/python3
 
 import unittest
 from utils.i_stack import IStack
 
-#######################################
-#
-# test cases for the 2nd stack in IStack
-#
-# chenxu zhang
-# 2019.3
-#######################################
 class TestRightStack(unittest.TestCase):
 
     def setUp(self):
