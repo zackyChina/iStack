@@ -6,6 +6,7 @@ The array with two dimension which restrict only integer value accepted.
 
 ## Support
 Python 2.x and Python 3.x  
+NOTE!!! open v3.x directory in vsCode with Python 3.x to run UT
 
 ####
 
